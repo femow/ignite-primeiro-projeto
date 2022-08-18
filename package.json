@@ -1,0 +1,19 @@
+{
+  "name": "ignite-primeiro-projeto",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/femow/ignite-primeiro-projeto.git",
+  "author": "femow <felipemu_92@hotmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.1",
+    "node": "^16.17.0",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
